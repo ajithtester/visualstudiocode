@@ -12,3 +12,4 @@ function absract( age, height) {
 }
 let jjj = new absract(  12, 180)
 console.log( jjj.getname())
+//test
